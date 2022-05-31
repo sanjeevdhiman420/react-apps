@@ -36,3 +36,44 @@
     transform: rotate(360deg);
   }
 }
+/*Header CSS Start*/
+img.mx-img {
+  width: 100%;
+  height: 100px;
+  cursor: none;
+}
+.me-auto.navbar-nav a {
+  font-size: 25px;
+  color: #e5cba9;
+  font-family: fantasy;
+  cursor: cell;
+}
+nav.__nav_bar_main.navbar.navbar-expand.navbar-light {
+  background-color: #b2d0ea;
+}
+.__footer_container {
+  display: flex;
+}
+footer.__footer {
+  background-color: #b2d0ea;
+}
+.page {
+  height: 500px;
+  background-color: antiquewhite;
+}
+.common {
+  border: 1px solid rebeccapurple;
+
+}
+.text {
+  font-size: 100px;
+  color: aqua;
+
+}
+
+ul.footer-menus.d-flex a {
+  font-size: 25px;
+  color: #e5cba9;
+  font-family: fantasy;
+  cursor: cell;
+}
