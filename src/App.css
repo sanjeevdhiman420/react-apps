@@ -68,6 +68,8 @@ footer.__footer {
 .text {
   font-size: 100px;
   color: aqua;
+  background-color: aliceblue;
+    border: 1px solid chartreuse;
 
 }
 
